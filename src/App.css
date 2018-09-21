@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  font-family: 'Poiret One';
+}
+
+.detail{
+  background: white;
+  border:1px solid gray;
+  border-radius: 10px;
+  height: 85vh;
+  width:cal(100% - 12px);
+  overflow: auto;
+  margin-top: 10px;
+  padding-right: 6px;
+  padding-left: 6px;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Poiret One';
+  color:white;
+}
+
+.menu-app{
+  text-align: center;
+  background-color: #ffa500eb !important;
+  font-family: 'Poiret One';
+  color:white;
+}
+
+.fondo {
+  background-color: #00c7ff29;
+}
+
+/* Media Querys para que pueda verse bien la app */
+
+@media (max-width: 64em) {
+  .detail {
+    height:36vh;
+  }
+}

@@ -1,0 +1,32 @@
+.forecast-titulo{
+  
+      font-family: 'Poiret One';
+      color: #ffffff;
+      text-align: center;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      font-size: 25px;
+      font-weight: 900;
+      background: #ffa500eb;
+      border-radius: 10px;
+}
+
+/* limitamos el ancho para que se vea la info detallada */
+/* flexbox considera una pantalla pequeña 48em */
+@media (max-width: 68em) {
+  .locationList{
+    max-height: 45vh;
+    overflow: auto;
+    margin-bottom: 20px;
+  }
+}
+
+.locationList{ 
+      background-color: white;
+      height: 87vh;
+      overflow: auto;
+      margin-bottom: 20px;
+      border: 1px solid #b3b3b3;
+      margin-top: 11px;
+      border-radius: 10px;
+}

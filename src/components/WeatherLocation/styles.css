@@ -1,0 +1,51 @@
+.weatherLocation{
+    width: calc(100% - 16px);
+    min-width: 320px;
+    border-radius: 10px;
+    font-family: 'Poiret One', cursive;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: white;
+    padding: 6px 5px;
+    border: 1px solid gray;
+    box-sizing: border-box;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.locationTitle{
+	width: 98%;
+}
+
+.locationTitle h1{
+	text-align: left;
+	font-size: 30px;
+	line-height: 2px;
+	font-weight: bold;
+}
+
+.clear{
+	clear: both;
+}
+
+button{
+    float: right;
+    margin: 5px 0px;
+    font-family: 'Poiret One', cursive;
+    color: orange;
+    padding: 4px 14px;
+    font-weight: bold;
+    background: white;
+    border: 1px solid gray;
+    font-size: 14px;
+    border-radius: 6px;
+    outline: 0;
+
+    transition-duration: 0.4s;
+}
+
+button:hover{
+	background-color: #cfcfcf;
+	color:white;
+	border:1px solid transparent;
+}
