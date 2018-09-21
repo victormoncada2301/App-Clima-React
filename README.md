@@ -16,7 +16,7 @@ Todo esto quedara en la carpeta llamada "Node_Modules" y de esta manera todas la
 
   http://api.openweathermap.org/data/2.5/forecast
   
-  (NOTA: La informacion que se obtiene del Api se mantiene en formato JSON de tal forma que se recorre el objeto y se captura la informacion mas relevante )
+ (Nota: La informacion que se obtiene del Api se mantiene en formato JSON de tal forma que se recorre el objeto y se captura la informacion mas relevante )
 
 5) Si quieres tener una idea más clara de como funciona la aplicacion te recomiendo a tomarte unos minutos y revisar el codigo y notaras que he comentado cada archivo resaltando los puntos mas importantes del desarrollo con React ....
 
