@@ -14,9 +14,9 @@ Todo esto quedara en la carpeta llamada "Node_Modules" y de esta manera todas la
 
 4) La aplicacion consume la siguiente API con el fin de obtener la informacion climatica en relacion a los distintos paises 
 
-  http://api.openweathermap.org/data/2.5/forecast
+http://api.openweathermap.org/data/2.5/forecast
   
- (Nota: La informacion que se obtiene del Api se mantiene en formato JSON de tal forma que se recorre el objeto y se captura la informacion mas relevante )
+(Nota: La informacion que se obtiene del Api se mantiene en formato JSON de tal forma que se recorre el objeto y se captura la informacion mas relevante )
 
 5) Si quieres tener una idea más clara de como funciona la aplicacion te recomiendo a tomarte unos minutos y revisar el codigo y notaras que he comentado cada archivo resaltando los puntos mas importantes del desarrollo con React ....
 
@@ -25,4 +25,3 @@ Sin tener mas nada que acotar
 Saludos Cordiales...
 
 Victor Moncada
-
