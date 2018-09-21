@@ -4,7 +4,7 @@ Bienvenidos a mi primera aplicacion de pronosticos del clima en React , a contin
 
 1) Descargar e instalar Node.js , Bower, Sublime Text , GitBash 
 
-2) Clonar el repositorio en local con el comando ("git clone")
+2) Clonar el repositorio con el comando ("git clone") y pegar el enlace 
 
 3) Se debe ejecutar el siguiente comando por la consola de Git ("npm install")
 
@@ -18,7 +18,7 @@ Todo esto quedara en la carpeta llamada "Node_Modules" y de esta manera todas la
 
 http://api.openweathermap.org/data/2.5/forecast
   
-(Nota: La informacion que se obtiene del Api se mantiene en formato JSON de tal forma que se recorre el objeto y se captura la informacion mas relevante )
+(Nota: La informacion que se obtiene del Api se mantiene en formato JSON de tal forma que se recorre el objeto y se captura la informacion más relevante )
 
 6) Si quieres tener una idea más clara de como funciona la aplicacion te recomiendo a tomarte unos minutos y revisar el codigo y notaras que he comentado cada archivo resaltando los puntos mas importantes del desarrollo con React ....
 
